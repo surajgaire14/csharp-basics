@@ -1,0 +1,8 @@
+namespace MyNameSpace.indexerNamespace
+{
+/*
+    * @ Indexers
+*/
+
+
+}

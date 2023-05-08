@@ -1,0 +1,15 @@
+/home/gaire/Documents/c-sharp/bin/Debug/net7.0/c-sharp
+/home/gaire/Documents/c-sharp/bin/Debug/net7.0/c-sharp.deps.json
+/home/gaire/Documents/c-sharp/bin/Debug/net7.0/c-sharp.runtimeconfig.json
+/home/gaire/Documents/c-sharp/bin/Debug/net7.0/c-sharp.dll
+/home/gaire/Documents/c-sharp/bin/Debug/net7.0/c-sharp.pdb
+/home/gaire/Documents/c-sharp/obj/Debug/net7.0/c-sharp.csproj.AssemblyReference.cache
+/home/gaire/Documents/c-sharp/obj/Debug/net7.0/c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaire/Documents/c-sharp/obj/Debug/net7.0/c-sharp.AssemblyInfoInputs.cache
+/home/gaire/Documents/c-sharp/obj/Debug/net7.0/c-sharp.AssemblyInfo.cs
+/home/gaire/Documents/c-sharp/obj/Debug/net7.0/c-sharp.csproj.CoreCompileInputs.cache
+/home/gaire/Documents/c-sharp/obj/Debug/net7.0/c-sharp.dll
+/home/gaire/Documents/c-sharp/obj/Debug/net7.0/refint/c-sharp.dll
+/home/gaire/Documents/c-sharp/obj/Debug/net7.0/c-sharp.pdb
+/home/gaire/Documents/c-sharp/obj/Debug/net7.0/c-sharp.genruntimeconfig.cache
+/home/gaire/Documents/c-sharp/obj/Debug/net7.0/ref/c-sharp.dll
