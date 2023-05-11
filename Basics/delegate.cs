@@ -1,6 +1,6 @@
 namespace MyNameSpace.delegateNamespace
 {
-    class delegates
+    class Delegates
     {
         public delegate void stringDelegate(string text);
 

@@ -1,6 +1,6 @@
 namespace MyNameSpace.CollectionNamespace
 {
-    class collections
+    class Collections
     {
         // var names = new List<String> { "Suraj", "Padam", "Nishan", "Riwaj" };
         public void collectionFunction()
