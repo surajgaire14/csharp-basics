@@ -1,34 +1,13 @@
 namespace MyNameSpace.BaseNameSpace
 {
-    // base class for class rectangle
-    class Shape
-    {
-        protected int width, height;
-        public void setWidth(int w)
-        {
-            width = w;
-        }
-        public void setHeight(int h)
-        {
-            height = h;
-        }
-
-        // public Shape(int w,int h){
-        //     this.width = w;
-        //     this.height = h;
-        // }
-    }
-    class Rectangle : Shape
-    {
-        public int getArea()
-        {
-            return (width * height);
-        }
-    }
 
     class Animal
     {
         protected string color = "white";
+
+        public Animal(){
+            System.Console.WriteLine("base class constructor");
+        }
 
         // for method overriding use virtual keyword
         public virtual void showColor()
@@ -40,16 +19,23 @@ namespace MyNameSpace.BaseNameSpace
         {
             Console.WriteLine("base class display method");
         }
+
     }
 
     class Cat : Animal
     {
         new string color = "black";
 
+        public Cat() : base() {
+            System.Console.WriteLine("derived class constructor");
+        }
+
         // Dynamic polymorphism - method overriding
         public override void showColor()
         {
+            // accessing base class method
             base.showColor();
+            // accessing base class field 
             Console.WriteLine(base.color);
             Console.WriteLine(color);
         }

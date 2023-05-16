@@ -1,4 +1,4 @@
-namespace MyNameSpace.CollectionNamespace
+namespace MyNameSpace.CollectionNamespace.generic
 {
     class Collections
     {
